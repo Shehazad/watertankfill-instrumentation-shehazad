@@ -1,6 +1,5 @@
 # watertankfill-instrumentation-shehazad
 # Automatic Tank Filling System – Wonderware Simulation
-# Automatic Tank Filling System – Wonderware Simulation
 ![filling](https://github.com/user-attachments/assets/851059fe-8143-4ba0-a53a-41c51f4109b2)
 
 
